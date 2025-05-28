@@ -2,8 +2,6 @@
 
 This project analyzes healthcare quality in U.S. hospitals using publicly available CMS (Centers for Medicare & Medicaid Services) data. The focus is on patient experience, mortality outcomes, regional differences, and ownership type.
 
-[View Full Presentation (PDF)](./slides/CMS-Dashboard.pdf)
-
 ---
 
 ## Key Performance Indicators (KPIs)
