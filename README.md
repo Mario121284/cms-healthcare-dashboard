@@ -17,11 +17,11 @@ This project analyzes healthcare quality in U.S. hospitals using publicly availa
 
 ## Key Findings
 
-### 🧭 Regional Insights
+### Regional Insights
 - The **Northeast** leads in hospital ratings, patient feedback volume, and better-than-expected mortality outcomes.
 - The **South** shows inconsistencies with both high and low performance indicators.
 
-### 🏥 Ownership Analysis
+### Ownership Analysis
 - **Voluntary non-profit hospitals** outperform other types in survey volume, transparency, and overall rating.
 - **Government** and **proprietary hospitals** underperform significantly.
 
@@ -48,6 +48,5 @@ This project analyzes healthcare quality in U.S. hospitals using publicly availa
 
 ## Created by
 Luis Carabajo  
-[LinkedIn](https://www.linkedin.com/in/luis-carabajo-a5449b250)  
-GitHub: [github.com/Mario121284](https://github.com/Mario121284)
+[LinkedIn](https://www.linkedin.com/in/luis-carabajo-a5449b250) 
 
